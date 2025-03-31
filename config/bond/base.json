@@ -192,5 +192,26 @@
   { "bondType": "Boat Registration Agent Bond", "specificBonds": [] },
   { "bondType": "Preneed Funeral Bond", "specificBonds": [] },
   { "bondType": "Manufactured Housing Bond", "specificBonds": [] },
-  { "bondType": "Towing License Bond", "specificBonds": [] }
+  { "bondType": "Towing License Bond", "specificBonds": [] },
+  { "bondType": "Brewer's Bond", "specificBonds": [] },
+  { "bondType": "Care Facilities & Services Bond", "specificBonds": [] },
+  { "bondType": "Child and Adult Care Food Program Bond", "specificBonds": [] },
+  { "bondType": "Commercial Financing Bond", "specificBonds": [] },
+  {
+    "bondType": "Home Services, Inspector or Locksmith Bond",
+    "specificBonds": []
+  },
+  { "bondType": "Landscape Contractor Bond", "specificBonds": [] },
+  { "bondType": "Modular Building Bond", "specificBonds": [] },
+  { "bondType": "Prepaid Rental Listing Service Bond", "specificBonds": [] },
+  { "bondType": "Real Estate Broker Bond", "specificBonds": [] },
+  {
+    "bondType": "Unlawful Detainer Assistant (UDA) Registration Bond",
+    "specificBonds": []
+  },
+  { "bondType": "Vehicle Inspector Bond", "specificBonds": [] },
+  { "bondType": "Vehicle Registration Service Bond", "specificBonds": [] },
+  { "bondType": "Well Driller Bond", "specificBonds": [] },
+  { "bondType": "Wildlife Agent Bond", "specificBonds": [] },
+  { "bondType": "Wine Tax Bond", "specificBonds": [] }
 ]
