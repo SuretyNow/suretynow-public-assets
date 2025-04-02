@@ -27,6 +27,7 @@
   { "bondType": "Mortgage Broker Bond", "specificBonds": [] },
   { "bondType": "Notary Bond", "specificBonds": [] },
   { "bondType": "Oil and Gas Bond", "specificBonds": [] },
+  { "bondType": "Payment Bond", "specificBonds": [] },
   { "bondType": "Payment and Performance Bond", "specificBonds": [] },
   { "bondType": "Performance Bond", "specificBonds": [] },
   { "bondType": "Pharmacy Bond", "specificBonds": [] },
