@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Bruce Chi
+N:Chi;Bruce;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:bchi@withsuretynow.com
+TEL;TYPE=CELL:+18882368589
+item1.ADR:;;4902 Brushy Ridge Drive;Austin;TX;78744‍;US;4902 Brushy Ridge D
+ rive\nAustin\, TX 78744‍\nUS
+item1.X-ABLabel:
+ORG:Suretynow
+TITLE:CEO
+item2.URL:https\://suretynow.com/
+item2.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzF7OG_RXXCG0PMJhUPpbu
+ uZr4cIebW7N0RRoigS7jS33wfrNQZu
+CATEGORIES:myContacts
+END:VCARD
