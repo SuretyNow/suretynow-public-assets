@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 26.0.1//EN
+N:Xiao;Jay;;;
+FN:Jay Xiao
+ORG:Suretynow;
+EMAIL;type=INTERNET;type=WORK;type=pref:jay@withsuretynow.com
+TEL;type=CELL;type=VOICE;type=pref:+1 3106957436
+ADR;type=HOME;type=pref:;;4902 Brushy Ridge Drive;Ausitn;TX;78744;US
+item1.URL;type=pref:suretynow.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
