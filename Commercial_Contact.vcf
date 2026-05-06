@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 26.0.1//EN
+N:Chi;Bruce;;;
+FN:Bruce Chi
+ORG:Suretynow;
+EMAIL;type=INTERNET;type=WORK;type=pref:bchi@withsuretynow.com
+TEL;type=CELL;type=VOICE;type=pref:+1‭(213) 371-2026
+item1.ADR;type=pref:;;4902 Brushy Ridge Drive;Austin;TX;78744;US
+item1.X-ABLabel:address
+item2.URL;type=pref:https://suretynow.com/
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
