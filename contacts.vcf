@@ -4,8 +4,8 @@ FN:Bruce Chi
 N:Chi;Bruce;;;
 EMAIL;TYPE=INTERNET;TYPE=WORK:bchi@withsuretynow.com
 TEL;TYPE=CELL:+18882368589
-item1.ADR:;;4902 Brushy Ridge Drive;Austin;TX;78744‍;US;4902 Brushy Ridge D
- rive\nAustin\, TX 78744‍\nUS
+item1.ADR;TYPE=WORK:;;5717 Legacy Drive, Suite 250;Plano;TX;75024;US;5717 L
+ egacy Drive, Suite 250\nPlano\, TX 75024\nUS
 item1.X-ABLabel:
 ORG:Suretynow
 TITLE:CEO
