@@ -28,8 +28,6 @@ item10.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 708-4461
 item10.X-ABLabel:Jason Rouse
 item11.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 513-4980
 item11.X-ABLabel:Bruce Chi
-item12.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 695-7436
-item12.X-ABLabel:Jay Xiao
 ADR;TYPE=WORK;TYPE=pref:;;5717 Legacy Dr Ste 250;Plano;TX;75024;US
 ADR;TYPE=WORK:;;3415 South Sepulveda Blvd;Los Angeles;CA;90034;US
 URL;TYPE=WORK:https://suretynow.com
