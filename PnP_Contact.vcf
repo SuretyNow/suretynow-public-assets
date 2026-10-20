@@ -8,18 +8,18 @@ TITLE:Licensed producers: Jason Rouse & Bruce Chi
 EMAIL;TYPE=INTERNET;TYPE=WORK;TYPE=pref:bonds@withsuretynow.com
 item1.TEL;TYPE=WORK;TYPE=VOICE;TYPE=pref:+1 (888) 275-7962
 item1.X-ABLabel:Main
-item2.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 331-0203
-item2.X-ABLabel:Team 1
-item3.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 241-3763
-item3.X-ABLabel:Team 1
-item4.TEL;TYPE=WORK;TYPE=VOICE:+1 (415) 787-7477
-item4.X-ABLabel:Team 2
-item5.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 507-9421
-item5.X-ABLabel:Team 2
-item6.TEL;TYPE=WORK;TYPE=VOICE:+1 (213) 286-5493
-item6.X-ABLabel:BCL
-item7.TEL;TYPE=WORK;TYPE=VOICE:+1 (213) 441-2564
-item7.X-ABLabel:Recurring
+item2.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 241-3763
+item2.X-ABLabel:Account manager
+item3.TEL;TYPE=WORK;TYPE=VOICE:+1 (415) 787-7477
+item3.X-ABLabel:Account manager
+item4.TEL;TYPE=WORK;TYPE=VOICE:+1 (213) 441-2564
+item4.X-ABLabel:Account manager
+item5.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 331-0203
+item5.X-ABLabel:New requests
+item6.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 507-9421
+item6.X-ABLabel:New requests
+item7.TEL;TYPE=WORK;TYPE=VOICE:+1 (213) 286-5493
+item7.X-ABLabel:Capacity letters
 item8.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 708-4461
 item8.X-ABLabel:Jason Rouse
 ADR;TYPE=WORK;TYPE=pref:;;5717 Legacy Dr Ste 250;Plano;TX;75024;US

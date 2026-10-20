@@ -9,11 +9,9 @@ EMAIL;TYPE=INTERNET;TYPE=WORK;TYPE=pref:support@withsuretynow.com
 item1.TEL;TYPE=WORK;TYPE=VOICE;TYPE=pref:+1 (888) 237-9736
 item1.X-ABLabel:Main
 item2.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 879-8554
-item2.X-ABLabel:Commercial
+item2.X-ABLabel:License bonds
 item3.TEL;TYPE=WORK;TYPE=VOICE:+1 (213) 371-2026
-item3.X-ABLabel:Commercial
-item4.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 708-4461
-item4.X-ABLabel:Jason Rouse
+item3.X-ABLabel:License bonds
 ADR;TYPE=WORK;TYPE=pref:;;5717 Legacy Dr Ste 250;Plano;TX;75024;US
 ADR;TYPE=WORK:;;3415 South Sepulveda Blvd;Los Angeles;CA;90034;US
 URL;TYPE=WORK:https://suretynow.com
