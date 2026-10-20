@@ -12,6 +12,8 @@ item2.TEL;TYPE=WORK;TYPE=VOICE:+1 (310) 879-8554
 item2.X-ABLabel:SuretyNow license bonds
 item3.TEL;TYPE=WORK;TYPE=VOICE:+1 (213) 371-2026
 item3.X-ABLabel:SuretyNow license bonds
+item4.TEL;TYPE=WORK;TYPE=VOICE:+1 (213) 286-5493
+item4.X-ABLabel:SuretyNow license bonds
 ADR;TYPE=WORK;TYPE=pref:;;5717 Legacy Dr Ste 250;Plano;TX;75024;US
 ADR;TYPE=WORK:;;3415 South Sepulveda Blvd;Los Angeles;CA;90034;US
 URL;TYPE=WORK:https://suretynow.com
